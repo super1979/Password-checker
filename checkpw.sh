@@ -1,5 +1,3 @@
-# Name: Tay How Yang Gilbert 
-# Student ID: 10512374
 #!/bin/bash
 
 # NR>1 tells awk to skip the header information
